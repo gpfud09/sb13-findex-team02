@@ -10,5 +10,4 @@ public enum SourceType {
 
     @Schema(description = "외부 Open API를 통해 수집한 데이터")
     OPEN_API
-
 }

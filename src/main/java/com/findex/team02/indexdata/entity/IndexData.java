@@ -145,4 +145,3 @@ public class IndexData extends BaseEntity {
     }
   }
 }
-
