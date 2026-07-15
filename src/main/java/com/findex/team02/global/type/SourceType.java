@@ -1,4 +1,4 @@
-package com.findex.team02.indexinfo.entity;
+package com.findex.team02.global.type;
 
 import io.swagger.v3.oas.annotations.media.Schema;
 
